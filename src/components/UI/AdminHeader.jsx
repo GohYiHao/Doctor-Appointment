@@ -48,7 +48,7 @@ const AdminHeader = () => {
                                 <h6>Ryan Taylor</h6>
                                 <p className="text-muted mb-0">Administrator</p>
                             </div>
-                        </div>
+                        </div> 
                         <a className="dropdown-item" href="profile.html">My Profile</a>
                         <a className="dropdown-item" href="settings.html">Settings</a>
                         <a className="dropdown-item" href="login.html">Logout</a>
